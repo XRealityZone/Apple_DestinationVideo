@@ -1,6 +1,6 @@
-# Apple_DestinationVideo
+# Destination Video
 
-> from https://developer.apple.com/documentation/visionos/destination-video
+This app is a multiplatform video playback app for visionOS, iOS, and tvOS. It demonstrates how to use the unique features of Apple Vision Pro to create an immersive playback experience that leverages 3D video and spatial audio.
 
-Leverage 3D video and Spatial Audio to deliver an immersive experience.
-
+For more information about the app and how it works, see
+[Destination Video](https://developer.apple.com/documentation/visionos/destination-video) in the developer documentation.
